@@ -1,6 +1,7 @@
 # Cluster Link Hybrid Cloud CP to CC and viceversa
 
-In this module I'm going to setup Cluster Link from Confluent Platform to Confluent Cloud and viceversa
+In this module I'm going to setup Cluster Link from Confluent Platform to Confluent Cloud and viceversa.
+For the Confluent Platform to Confluent Cloud setup of Cluster Linking we are going to use source initiaded configuration which is recommended for Hybrid Cloud.
 
 ## Download Confluent Platform
 
